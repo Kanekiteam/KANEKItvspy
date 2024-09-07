@@ -5,11 +5,13 @@
       "channels": [
         {
           "name": "Tigo Sports 1",
+          "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCV8ylO8tcnV_u96yTcp4SS100-FKMfi42Dw&s",
           "stream_url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
           "drm_id": "2868488685"
         },
         {
           "name": "Tigo Sports 2",
+          "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCV8ylO8tcnV_u96yTcp4SS100-FKMfi42Dw&s",
           "stream_url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
           "drm_id": "729527824"
         }
@@ -20,11 +22,13 @@
       "channels": [
         {
           "name": "EVENTOS HD 1",
+          "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMAyC2tTzN1xiwK35rBXXi6p1N9XrP7fDQg&s",
           "stream_url": "https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
           "drm_id": "167307719"
         },
         {
           "name": "EVENTOS HD 2",
+          "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMAyC2tTzN1xiwK35rBXXi6p1N9XrP7fDQg&s",
           "stream_url": "https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
           "drm_id": "167307720"
         }
@@ -34,18 +38,43 @@
   "drm_licenses": [
     {
       "drm_id": "2868488685",
-      "drm_type": "widevine",
-      "drm_key": "https://..."
+      "drm_type": "clearkey",
+      "drm_key": "49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7"
     },
     {
       "drm_id": "729527824",
-      "drm_type": "widevine",
-      "drm_key": "https://..."
+      "drm_type": "clearkey",
+      "drm_key": "1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c"
     },
     {
       "drm_id": "167307719",
-      "drm_type": "widevine",
-      "drm_key": "https://..."
+      "drm_type": "clearkey",
+      "drm_key": "2bdfc30f2a7591e107d8c84458c395dd:dcee0d6420b6b597fba15d3c4411a71e"
+    },
+    {
+      "drm_id": "3812673486",
+      "drm_type": "clearkey",
+      "drm_key": "0900ce66b82de0fd07aa8f12a48f29a2:e5556dba688fda637374ab5c87d7cda6"
+    },
+    {
+      "drm_id": "2173503516",
+      "drm_type": "clearkey",
+      "drm_key": "9be1432e1e594c8d0648a44d3d9f0c46:8e6c785b14d973c504074b1920f11b15"
+    },
+    {
+      "drm_id": "693912881",
+      "drm_type": "clearkey",
+      "drm_key": "a5f44a5e30714cf3bcee7c7f15a08b4e:c3c141ae941ab9750339c3af45a65ce2"
+    },
+    {
+      "drm_id": "952776547",
+      "drm_type": "clearkey",
+      "drm_key": "b47f257df0314d09a7f8355c3abe1dc6:bdc9f1696a82ee7398dd3a7fa82300e2"
+    },
+    {
+      "drm_id": "801564979",
+      "drm_type": "clearkey",
+      "drm_key": "..."
     }
   ]
 }
