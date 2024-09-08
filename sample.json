@@ -1,16 +1,16 @@
 {
-  "a": [
+  "categories": [
     {
-      "a": "🇵🇾Paraguay Deportes VPN-AR/UY/PY/US",
-      "b": [
+      "name": "Paraguay Deportes VPN-AR/UY/PY/US",
+      "channels": [
         {
-          "a": "Tigo Sports 1",
+          "name": "Tigo Sports 1",
           "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCV8ylO8tcnV_u96yTcp4SS100-FKMfi42Dw&s",
           "stream_url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
           "drm_id": "2868488685"
         },
         {
-          "a": "Tigo Sports 2",
+          "name": "Tigo Sports 2",
           "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCV8ylO8tcnV_u96yTcp4SS100-FKMfi42Dw&s",
           "stream_url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
           "drm_id": "729527824"
@@ -18,16 +18,16 @@
       ]
     },
     {
-      "a": "EVENTOS FLOW HD",
-      "b": [
+      "name": "EVENTOS FLOW HD",
+      "channels": [
         {
-          "a": "EVENTOS HD 1",
+          "name": "EVENTOS HD 1",
           "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMAyC2tTzN1xiwK35rBXXi6p1N9XrP7fDQg&s",
           "stream_url": "https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
           "drm_id": "167307719"
         },
         {
-          "a": "EVENTOS HD 2",
+          "name": "EVENTOS HD 2",
           "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLMAyC2tTzN1xiwK35rBXXi6p1N9XrP7fDQg&s",
           "stream_url": "https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd",
           "drm_id": "3812673486"
