@@ -166,6 +166,96 @@
 			"a": "🎬 CINE Y SERIES",
 			"b": [
 				{
+					"a": "HBO",
+					"logo_url": "https://logowik.com/content/uploads/images/hbo.jpg",
+					"stream_url": "https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
+					"drm_id": "2714035202"
+				},
+				{
+					"a": "HBO 2",
+					"logo_url": "https://w7.pngwing.com/pngs/1007/946/png-transparent-hbo-2-television-show-streaming-media-production-company-television-text-logo.png",
+					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
+					"drm_id": "1802816122"
+				},
+				{
+					"a": "HBO FAMILY",
+					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJRIWFgQrQ5k4ZufJyms_2wa89EkiimMjmog&s",
+					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd",
+					"drm_id": "2915963194"
+				},
+				{
+					"a": "HBO MUNDI",
+					"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",
+					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_2A/HBO_Mundi.mpd",
+					"drm_id": "1132737283"
+				},
+				{
+					"a": "HBO PLUS",
+					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDvgZ0B2Xpw1S1benKd0HCqTBAskS3DqdBiw&s",
+					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd",
+					"drm_id": "2545200838"
+				},
+				{
+					"a": "HBO POP",
+					"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png",
+					"stream_url": "https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
+					"drm_id": "2659746191"
+				},
+				{
+					"a": "HBO SIGNATURE",
+					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN_F2klIYT2xyXcexNkyiatcWIf36Yd64rGQ&s",
+					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_2A/HBO_Signature.mpd",
+					"drm_id": "3007573264"
+				},
+				{
+					"a": "HBO XTREME",
+					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsAnT9-CkuyopOCQYT81DLXrWxTRM435zUcg&s",
+					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd",
+					"drm_id": "1005605163"
+				},
+				{
+					"a": "STUDIO UNIVERSAL",
+					"logo_url": "https://static.flow.com.ar/images/718/CH_LOGO/60/40/0/0/358638080777.png",
+					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd",
+					"drm_id": "1982808384"
+				},
+				{
+					"a": "UNIVERSAL CINEMA",
+					"logo_url": "https://geo.mnedge.cvattv.com.ar:9002/images/9618/CH_LOGO/512/512/0/0/72952746076947.png",
+					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universal_Cinema.mpd",
+					"drm_id": "3251174823"
+				},
+				{
+					"a": "UNIVERSAL COMEDY",
+					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNotJoD64S9wCYFLpvay4iHjmL2WlMtZAehGmYUsHuTA&s",
+					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_Comedy.mpd",
+					"drm_id": "4100481740"
+				},
+				{
+					"a": "UNIVERSAL CRIME",
+					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3MZBHpnlRM1VAuo2j3TPzoUNPlUlVO7pUARjCh24d_g&s",
+					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc/universal_Crime.mpd",
+					"drm_id": "3630468597"
+				},
+				{
+					"a": "UNIVERSAL PREMIERE",
+					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-dUPKZOBlCEtlvI8iaz7i0YNCAPTyFEIWSye4VroMKg&s",
+					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd",
+					"drm_id": "282072115"
+				},
+				{
+					"a": "UNIVERSAL REALITY",
+					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-tJkKRRIjmxW5CPjPy7lOJfySbwqO0IDrWCpd0nhjQ&s",
+					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc/Universal_Reality.mpd",
+					"drm_id": "2841586032"
+				},
+				{
+					"a": "UNIVERSAL TV",
+					"logo_url": "https://static.flow.com.ar/images/731/CH_LOGO/60/40/0/0/53674701071508.png",
+					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd",
+					"drm_id": "817958668"
+				},
+				{
 					"a": "A&E",
 					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s",
 					"stream_url": "https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd",
@@ -918,101 +1008,6 @@
 					"a": "TRAVELXP ES",
 					"logo_url": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400001L4_20231101T032753SQUARE.png_20231101032754.png",
 					"stream_url": "https://36c99fb4c50649bf803389624beea453.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_TravelXP/playlist.m3u8"
-				}
-			]
-		},
-		{
-			"a": "🎬 PACK PREMIUM UNIVERSAL Y HBO",
-			"b": [
-				{
-					"a": "HBO",
-					"logo_url": "https://logowik.com/content/uploads/images/hbo.jpg",
-					"stream_url": "https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
-					"drm_id": "2714035202"
-				},
-				{
-					"a": "HBO 2",
-					"logo_url": "https://w7.pngwing.com/pngs/1007/946/png-transparent-hbo-2-television-show-streaming-media-production-company-television-text-logo.png",
-					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
-					"drm_id": "1802816122"
-				},
-				{
-					"a": "HBO FAMILY",
-					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJRIWFgQrQ5k4ZufJyms_2wa89EkiimMjmog&s",
-					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd",
-					"drm_id": "2915963194"
-				},
-				{
-					"a": "HBO MUNDI",
-					"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",
-					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_2A/HBO_Mundi.mpd",
-					"drm_id": "1132737283"
-				},
-				{
-					"a": "HBO PLUS",
-					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDvgZ0B2Xpw1S1benKd0HCqTBAskS3DqdBiw&s",
-					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd",
-					"drm_id": "2545200838"
-				},
-				{
-					"a": "HBO POP",
-					"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png",
-					"stream_url": "https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
-					"drm_id": "2659746191"
-				},
-				{
-					"a": "HBO SIGNATURE",
-					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN_F2klIYT2xyXcexNkyiatcWIf36Yd64rGQ&s",
-					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_2A/HBO_Signature.mpd",
-					"drm_id": "3007573264"
-				},
-				{
-					"a": "HBO XTREME",
-					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsAnT9-CkuyopOCQYT81DLXrWxTRM435zUcg&s",
-					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd",
-					"drm_id": "1005605163"
-				},
-				{
-					"a": "STUDIO UNIVERSAL",
-					"logo_url": "https://static.flow.com.ar/images/718/CH_LOGO/60/40/0/0/358638080777.png",
-					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd",
-					"drm_id": "1982808384"
-				},
-				{
-					"a": "UNIVERSAL CINEMA",
-					"logo_url": "https://geo.mnedge.cvattv.com.ar:9002/images/9618/CH_LOGO/512/512/0/0/72952746076947.png",
-					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universal_Cinema.mpd",
-					"drm_id": "3251174823"
-				},
-				{
-					"a": "UNIVERSAL COMEDY",
-					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNotJoD64S9wCYFLpvay4iHjmL2WlMtZAehGmYUsHuTA&s",
-					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_Comedy.mpd",
-					"drm_id": "4100481740"
-				},
-				{
-					"a": "UNIVERSAL CRIME",
-					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3MZBHpnlRM1VAuo2j3TPzoUNPlUlVO7pUARjCh24d_g&s",
-					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc/universal_Crime.mpd",
-					"drm_id": "3630468597"
-				},
-				{
-					"a": "UNIVERSAL PREMIERE",
-					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-dUPKZOBlCEtlvI8iaz7i0YNCAPTyFEIWSye4VroMKg&s",
-					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd",
-					"drm_id": "282072115"
-				},
-				{
-					"a": "UNIVERSAL REALITY",
-					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-tJkKRRIjmxW5CPjPy7lOJfySbwqO0IDrWCpd0nhjQ&s",
-					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc/Universal_Reality.mpd",
-					"drm_id": "2841586032"
-				},
-				{
-					"a": "UNIVERSAL TV",
-					"logo_url": "https://static.flow.com.ar/images/731/CH_LOGO/60/40/0/0/53674701071508.png",
-					"stream_url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd",
-					"drm_id": "817958668"
 				}
 			]
 		},
