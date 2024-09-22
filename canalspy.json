@@ -567,6 +567,11 @@
 			"a": "🎵 MÚSICA",
 			"b": [
 				{
+					"a": "Space Shower TV",
+					"logo_url": "https://pbs.twimg.com/profile_images/1156799516848246784/Hl_-cHV6_400x400.png",
+					"stream_url": "http://103.255.250.187:5002/bs26.m3u8?token=guoziyun&gid=bs26&channel=zhongying"
+				},
+				{
 					"a": "MUSIC TOP TV JP",
 					"logo_url": "https://pbs.twimg.com/profile_images/1156799516848246784/Hl_-cHV6_400x400.png",
 					"stream_url": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
