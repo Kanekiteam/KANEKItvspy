@@ -148,6 +148,12 @@
 					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7_G_IhPolByrcp01q6BlaUfvQI6nZvB5PTw&s",
 					"stream_url": "http://159.203.148.226/live/farra.m3u8",
 					"drm_id": "0"
+				},
+				{
+					"a": "Venus",
+					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXq0O_l9ha5FPDAd9XWVJ7u5kDiS-6Dif4HA&s",
+					"stream_url": "https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8",
+					"drm_id": "1"
 				}
 			]
 		},
