@@ -2855,9 +2855,9 @@
 					"stream_url": "https://dr.jellyfin.es/nonton/samples/magma/627.m3u8"
 				},
 				{
-					"a": "Los Simpson (Temporadas 1-5) 24/7",
+					"a": "Los Simpson (Temporadas 12-17) 24/7",
 					"logo_url": "https://x.playerlatino.live/lossimpsons.png",
-					"stream_url": "https://dr.jellyfin.es/nonton/samples/magma/629.m3u8"
+					"stream_url": "https://magmaplayer.com/stream/hls/630.m3u8"
 				},
 				{
 					"a": "Los Simpson (Temporadas 18-21) 24/7",
