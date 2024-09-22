@@ -142,6 +142,12 @@
 					"logo_url": "https://static.flow.com.ar/images/9417/CH_LOGO/60/40/0/0/17713754078317.png",
 					"stream_url": "https://edge-live15-hr.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
 					"drm_id": "889208516"
+				},
+				{
+					"a": "Farra Play",
+					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7_G_IhPolByrcp01q6BlaUfvQI6nZvB5PTw&s",
+					"stream_url": "http://159.203.148.226/live/farra.m3u8",
+					"drm_id": "0"
 				}
 			]
 		},
