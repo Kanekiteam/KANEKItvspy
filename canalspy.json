@@ -1004,6 +1004,7 @@
 					"a": "NATIONAL GEOGRAPHIC",
 					"logo_url": "https://i.ibb.co/tmGdKgj/natgeo.png",
 					"stream_url": "http://csc-nod-edge01.sensa.com.ar/live/eds/NatGeo/live_dash_cld/NatGeo.mpd"
+					"drm_id": "drm_wv"
 				},
 				{
 
