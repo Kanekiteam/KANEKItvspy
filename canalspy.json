@@ -1003,7 +1003,7 @@
 
 					"a": "NATIONAL GEOGRAPHIC",
 					"logo_url": "https://i.ibb.co/tmGdKgj/natgeo.png",
-					"stream_url": "http://csc-nod-edge01.sensa.com.ar/live/eds/NatGeo/live_dash_cld/NatGeo.mpd"
+					"stream_url": "http://181.78.8.90:16123/play/ch30"
 				},
 				{
 
