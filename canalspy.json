@@ -3580,8 +3580,8 @@
 		},
 		{
 			"drm_id": "00000000",
-			"drm_type": "widevine",
-			"drm_key": "https://mrpw.pt.verspective.net:443/?deviceId=OTAyMjRlY2YtOTg4NC0zYWQ1LWIwYzktZmNjMTNlOTMzNmEy"
+			"drm_type": "clearkey",
+			"drm_key": "OTAyMjRlY2YtOTg4NC0zYWQ1LWIwYzktZmNjMTNlOTMzNmEy"
 		}
 	]
 }
