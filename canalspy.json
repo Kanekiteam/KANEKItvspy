@@ -1002,8 +1002,8 @@
 				{
 					"a": "NAT GEO WILD",
 					"logo_url": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cbd953a228ec414f4497f35ff433ca05.webp",
-					"stream_url": "https://testphp07.alwaysdata.net/yt/BJ3Yv572V1A.m3u8",
-					"drm_id": "1499438245"
+					"stream_url": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:258_HD.smil/manifest.mpd",
+					"drm_id": "000000001"
 				},
 				{
 					"a": "NATIONAL GEOGRAPHIC",
