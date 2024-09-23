@@ -1009,7 +1009,7 @@
 
 					"a": "NAT GEO WILD",
 					"logo_url": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cbd953a228ec414f4497f35ff433ca05.webp",
-					"stream_url": "http://51.158.144.111:8000/play/a00i/index.m3u8"
+					"stream_url": "http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55611&extension=ts&play_token=ltn2GgE1z6"
 				},
 				{
 					"a": "ODISEA",
