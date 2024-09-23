@@ -1004,6 +1004,8 @@
 					"logo_url": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cbd953a228ec414f4497f35ff433ca05.webp",
 					"stream_url": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:258_HD.smil/manifest.mpd",
 					"drm_id": "000000001"
+					"license": "no",
+                                        "ua": "Mozilla/5.0 (TizenOS; Linux/TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36"
 				},
 				{
 					"a": "NATIONAL GEOGRAPHIC",
