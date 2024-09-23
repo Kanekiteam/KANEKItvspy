@@ -1006,6 +1006,12 @@
 					"stream_url": "https://cdn-py.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_2A/NatGeoHD.mpd"
 				},
 				{
+
+					"a": "NAT GEO WILD",
+					"logo_url": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cbd953a228ec414f4497f35ff433ca05.webp",
+					"stream_url": "http://154.6.193.139:8080/live/play/V25NdllrNVRkM1pHWVRSd1V6YzBUVmRqZG5ZeFF6RlpRVGM1VTJKVmQzaE5ORkZQYmxOd2NqRllNRDA9/55611"
+				},
+				{
 					"a": "ODISEA",
 					"logo_url": "https://i.ibb.co/bBwXr6d/odisea.png",
 					"stream_url": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:83_HD.smil/manifest.mpd"
