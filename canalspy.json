@@ -508,7 +508,7 @@
 				{
 					"a": "DISNEY JUNIOR",
 					"logo_url": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/DISNEYJUNIOR/EXPORTACION_WEB/SS/DISNEYJUNIOR_t-290x163.png",
-					"stream_url": "http://csc-nod-edge01.sensa.com.ar/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd",
+					"stream_url": "http://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_2A/DisneyJr.mpd",
 					"drm_id": "2393933862"
 				},
 				{
