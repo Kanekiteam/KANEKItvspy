@@ -510,7 +510,6 @@
 					"logo_url": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/DISNEYJUNIOR/EXPORTACION_WEB/SS/DISNEYJUNIOR_t-290x163.png",
 					"stream_url": "http://csc-nod-edge01.sensa.com.ar/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd",
 					"drm_key": "https://mrpw.pt.verspective.net:443/?deviceId=OTAyMjRlY2YtOTg4NC0zYWQ1LWIwYzktZmNjMTNlOTMzNmEy"
-					"referer": "https://player.sensa.com.ar"
 				},
 				{
 					"a": "Disney_ChannelHD",
