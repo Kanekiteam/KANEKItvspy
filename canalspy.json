@@ -23,7 +23,7 @@
 				{
 					"a": "Tigo Sports 2",
 					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCV8ylO8tcnV_u96yTcp4SS100-FKMfi42Dw&s",
-					"stream_url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+					"stream_url": "https://sam-py-edge04.tigo.com.py/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
 					"drm_id": "729527824"
 				},
 				{
