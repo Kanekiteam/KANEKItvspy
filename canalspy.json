@@ -17,7 +17,7 @@
 				{
 					"a": "Tigo Sports 1",
 					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCV8ylO8tcnV_u96yTcp4SS100-FKMfi42Dw&s",
-					"stream_url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+					"stream_url": "https://sam-py-edge04.tigo.com.py/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
 					"drm_id": "2868488685"
 				},
 				{
