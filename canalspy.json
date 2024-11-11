@@ -198,7 +198,7 @@
 				{
 					"a": "HBO",
 					"logo_url": "https://logowik.com/content/uploads/images/hbo.jpg",
-					"stream_url": "http://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
+					"stream_url": "https://edge-mix05-coe.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
 					"drm_id": "2714035202"
 				},
 				{
