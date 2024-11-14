@@ -29,7 +29,7 @@
 				{
 					"a": "Tigo Sports 3",
 					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCV8ylO8tcnV_u96yTcp4SS100-FKMfi42Dw&s",
-					"stream_url": "https://edge1-eu-west.picarto.tv/stream/hls/golive%2bFUTDEIN/index.m3u8",
+					"stream_url": "http://181.78.27.128:8000/play/a00a/index.m3u8",
 					"drm_id": "729527826"
 				},
 				{
