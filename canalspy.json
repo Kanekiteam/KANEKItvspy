@@ -1877,19 +1877,19 @@
 					"stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cde127fb-082c-4bae-bbc8-eb5fcecf263d"
 				},
 				{
-					"a": "Caso cerrado 24/7",
-					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAOK5TZDSrh4CQa-qKJ00B2D6IdDF1I59nUw&s",
-					"stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cde127fb-082c-4bae-bbc8-eb5fcecf263d"
+					"a": "EL Chavo Animado 24/7",
+					"logo_url": "https://seeklogo.com/images/C/Chavo_del_8-logo-A45B1D1E98-seeklogo.com.png",
+					"stream_url": "http://latintvplus.com:8000/REYVictor/204889334/131452"
 				},
 				{
-					"a": "Caso cerrado 24/7",
-					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAOK5TZDSrh4CQa-qKJ00B2D6IdDF1I59nUw&s",
-					"stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cde127fb-082c-4bae-bbc8-eb5fcecf263d"
+					"a": "El Chavo del 8 24/7",
+					"logo_url": "https://i.pinimg.com/originals/68/bb/df/68bbdf292c71013a5bb5eeb02075d32b.png",
+					"stream_url": "http://xdplayer.tv:8080/play/UaXuyTqseP31smOn90R1Uq7jlIL30iousEy35Ro6l6I"
 				},
 				{
-					"a": "Caso cerrado 24/7",
-					"logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAOK5TZDSrh4CQa-qKJ00B2D6IdDF1I59nUw&s",
-					"stream_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cde127fb-082c-4bae-bbc8-eb5fcecf263d"
+					"a": "Dragon Ball GT 24/7",
+					"logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dragon_Ball_GT_logo.png/1024px-Dragon_Ball_GT_logo.png",
+					"stream_url": "http://xdplayer.tv:8080/play/UaXuyTqseP31smOn90R1Uk64SM38iqy0pgatnWiicQzjF0cs4W_gaAsbu9s_OFLo"
 				}
 			]
 		},
